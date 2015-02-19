@@ -29,6 +29,7 @@ private ArrayList<String> players = new ArrayList<String>(); //And arraylist of 
 private ArrayList<String> redTeam = new ArrayList<String>();
 private ArrayList<String> blueTeam = new ArrayList<String>();
 
+//Player waiting to join the other teams.
 private ArrayList<String> waitingForBlue = new ArrayList<String>();
 private ArrayList<String> waitingForRed = new ArrayList<String>();
 
