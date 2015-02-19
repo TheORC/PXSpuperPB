@@ -1,0 +1,9 @@
+name: PXSuperPB
+version: 0.3.5
+main: me.joxboyz.PXSuperPB.Main.Main
+author: joxboyz
+description: >
+             PX Super Paint Ball Plugin.
+commands:
+  pxpb:
+    description: Creates A Test Arena!

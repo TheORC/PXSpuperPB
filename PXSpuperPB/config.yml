@@ -1,0 +1,4 @@
+ShotGun:
+    cost: 5000
+MachineGun:
+    cost: 10000
