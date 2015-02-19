@@ -33,6 +33,7 @@ private ArrayList<String> blueTeam = new ArrayList<String>();
 private ArrayList<String> waitingForBlue = new ArrayList<String>();
 private ArrayList<String> waitingForRed = new ArrayList<String>();
 
+//Player using different weapons.
 private ArrayList<String> playerUsingPeaShooter = new ArrayList<String>();
 private ArrayList<String> playerUsingShotGun = new ArrayList<String>();
 private ArrayList<String> playerUsingMachineGun = new ArrayList<String>();
