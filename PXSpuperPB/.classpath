@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Oliver/Documents/Bukkit Server/Bukkit/target/bukkit-1.8-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Oliver/Documents/1.8 Bukkit Server/plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Oliver/Documents/Bukkit Server/CraftBukkit/target/craftbukkit-1.8-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
